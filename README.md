@@ -1,5 +1,21 @@
 # EmmFeGcPruebaTecnica
 
+
+## Login (No Funcional)
+![](./.img/login.png)
+
+## Home
+![](./.img/home.png)
+
+## Pokemons List
+![](./.img/list.png)
+
+## Pokemons Details
+![](./.img/datails.png)
+
+## About
+![](./.img/about.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
 ## Development server
