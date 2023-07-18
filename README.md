@@ -3,18 +3,22 @@
 
 ## Login (No Funcional)
 ![](./.img/login.png)
+[👀 View](https://main.d2rijkp6h51cs.amplifyapp.com/login)
 
 ## Home
 ![](./.img/home.png)
-
+[👀 View](https://main.d2rijkp6h51cs.amplifyapp.com/)
 ## Pokemons List
 ![](./.img/list.png)
+[👀 View](https://main.d2rijkp6h51cs.amplifyapp.com/pokemons)
 
 ## Pokemons Details
 ![](./.img/datails.png)
+[👀 View](https://main.d2rijkp6h51cs.amplifyapp.com/pokemons/1)
 
 ## About
 ![](./.img/about.png)
+[👀 View](https://main.d2rijkp6h51cs.amplifyapp.com/about)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
